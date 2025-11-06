@@ -1,6 +1,1 @@
-streamlit
-numpy
-torch
-ultralytics
-clip
-langchain
+streamlit ultralytics opencv-python-headless torch torchvision git+https://github.com/openai/CLIP.git scikit-learn faiss-cpu langchain sentence_transformers
