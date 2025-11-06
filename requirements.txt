@@ -1,9 +1,26 @@
+# Core frameworks
 streamlit
-ultralytics
 opencv-python-headless
 torch
 torchvision
-scikit-learn faiss-cpu
-langchain
-sentence_transformers
+ultralytics
 
+# CLIP (OpenAI)
+git+https://github.com/openai/CLIP.git
+
+# Machine Learning Utilities
+scikit-learn
+faiss-cpu
+sentence-transformers
+numpy
+Pillow
+
+# LangChain & LLM integrations
+langchain
+langchain-community
+langchain_core
+openai
+
+# Optional utilities
+requests
+tqdm
